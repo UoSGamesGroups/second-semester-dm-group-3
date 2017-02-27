@@ -2,24 +2,42 @@ Initialize engine version: 5.5.0f3 (38b4efef76f0)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
     Vendor:   NVIDIA
     VRAM:     3072 MB
     Driver:   21.21.13.7653
 Begin MonoManager ReloadAssembly
-Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space BeatDown Prototype_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space BeatDown Prototype_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space BeatDown Prototype_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space BeatDown Prototype_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space BeatDown Prototype_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space BeatDown Prototype_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space BeatDown Prototype_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space BeatDown Prototype_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space BeatDown Prototype_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space BeatDown Prototype_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.027 seconds
-Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space BeatDown Prototype_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space BeatDown Prototype_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: C:\Users\theor\Desktop\second-semester-dm-group-3\UbiProtos\Space BeatDown Prototype_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\theor\Desktop\second-semester-dm-group-3\UbiProtos\Space BeatDown Prototype_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\theor\Desktop\second-semester-dm-group-3\UbiProtos\Space BeatDown Prototype_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\theor\Desktop\second-semester-dm-group-3\UbiProtos\Space BeatDown Prototype_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\theor\Desktop\second-semester-dm-group-3\UbiProtos\Space BeatDown Prototype_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\theor\Desktop\second-semester-dm-group-3\UbiProtos\Space BeatDown Prototype_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\theor\Desktop\second-semester-dm-group-3\UbiProtos\Space BeatDown Prototype_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\theor\Desktop\second-semester-dm-group-3\UbiProtos\Space BeatDown Prototype_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\theor\Desktop\second-semester-dm-group-3\UbiProtos\Space BeatDown Prototype_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\theor\Desktop\second-semester-dm-group-3\UbiProtos\Space BeatDown Prototype_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.018 seconds
+Platform assembly: C:\Users\theor\Desktop\second-semester-dm-group-3\UbiProtos\Space BeatDown Prototype_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\theor\Desktop\second-semester-dm-group-3\UbiProtos\Space BeatDown Prototype_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
 <RI> Initializing input.
 <RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.447569 ms
+Platform assembly: C:\Users\theor\Desktop\second-semester-dm-group-3\UbiProtos\Space BeatDown Prototype_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.749604 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.344143 ms (FindLiveObjects: 0.042155 ms CreateObjectMapping: 0.045732 ms MarkObjects: 0.244247 ms  DeleteObjects: 0.010730 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.719201 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.309908 ms (FindLiveObjects: 0.045988 ms CreateObjectMapping: 0.045477 ms MarkObjects: 0.207968 ms  DeleteObjects: 0.009453 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 35a8 -> priority: 1 
+  Thread -> id: 14e8 -> priority: 1 
