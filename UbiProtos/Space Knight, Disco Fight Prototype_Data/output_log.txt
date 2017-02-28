@@ -1,0 +1,25 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7653
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space Knight, Disco Fight Prototype_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space Knight, Disco Fight Prototype_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space Knight, Disco Fight Prototype_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space Knight, Disco Fight Prototype_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space Knight, Disco Fight Prototype_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space Knight, Disco Fight Prototype_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space Knight, Disco Fight Prototype_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space Knight, Disco Fight Prototype_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space Knight, Disco Fight Prototype_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space Knight, Disco Fight Prototype_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space Knight, Disco Fight Prototype_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Space BeatDown\Exes\Space Knight, Disco Fight Prototype_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
