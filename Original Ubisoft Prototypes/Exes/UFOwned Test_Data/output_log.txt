@@ -1,0 +1,126 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7563
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Documents\Game Making\Unity\Unity Games\UFOwned\Exes\UFOwned Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Documents\Game Making\Unity\Unity Games\UFOwned\Exes\UFOwned Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Documents\Game Making\Unity\Unity Games\UFOwned\Exes\UFOwned Test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Documents\Game Making\Unity\Unity Games\UFOwned\Exes\UFOwned Test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\Documents\Game Making\Unity\Unity Games\UFOwned\Exes\UFOwned Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Documents\Game Making\Unity\Unity Games\UFOwned\Exes\UFOwned Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Documents\Game Making\Unity\Unity Games\UFOwned\Exes\UFOwned Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Documents\Game Making\Unity\Unity Games\UFOwned\Exes\UFOwned Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Documents\Game Making\Unity\Unity Games\UFOwned\Exes\UFOwned Test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\Documents\Game Making\Unity\Unity Games\UFOwned\Exes\UFOwned Test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: E:\Documents\Game Making\Unity\Unity Games\UFOwned\Exes\UFOwned Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Documents\Game Making\Unity\Unity Games\UFOwned\Exes\UFOwned Test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.065083 ms
+Platform assembly: E:\Documents\Game Making\Unity\Unity Games\UFOwned\Exes\UFOwned Test_Data\Managed\Boo.Lang.dll (this message is harmless)
+Caught Object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Caught Object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Caught Object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Caught Object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Caught Object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dink
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.997737
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dink
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3.426477
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dink
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.1977029
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Caught Object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Caught Object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Caught Object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Caught Object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Caught Object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Caught Object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Caught Object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Caught Object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dink
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+26.56096
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dead
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.470381 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 282.
+Total: 0.200882 ms (FindLiveObjects: 0.027632 ms CreateObjectMapping: 0.032600 ms MarkObjects: 0.132886 ms  DeleteObjects: 0.007141 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 8a4 -> priority: 1 
+  Thread -> id: 2f7c -> priority: 1 
+  Thread -> id: eb0 -> priority: 1 
